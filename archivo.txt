@@ -6,3 +6,8 @@ Para tener una mejor vision de git status es mejor usar git status --s de esta m
 
 Para ver el historial en git usaremos el comando git log pero este nos muestra muhco texto. Si queremos verlo de manera mas sencilla y dinamica usemos mejor:
 git log --oneline
+
+una ves que yo haya creado un repositorio en la nube de mi github yo puedo no mas para agregar mi nuevos archivo solo colocando:
+git add seguido de documento
+luego git commit -m "nombre del commit"
+y finalizando colocando git push
