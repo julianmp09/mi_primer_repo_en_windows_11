@@ -1,1 +1,3 @@
 Hola Julian
+
+Para yo poder borrar un archivo de mi repositorio, desde git bash tengu que usar esta abreviacion => rm 
