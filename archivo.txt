@@ -1,3 +1,8 @@
-Hola Julian
+Hola Julian Daniel
 
 Para yo poder borrar un archivo de mi repositorio, desde git bash tengu que usar esta abreviacion => rm 
+
+Para tener una mejor vision de git status es mejor usar git status --s de esta manera podemos visualiar todo mas proligo
+
+Para ver el historial en git usaremos el comando git log pero este nos muestra muhco texto. Si queremos verlo de manera mas sencilla y dinamica usemos mejor:
+git log --oneline
